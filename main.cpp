@@ -1,3 +1,4 @@
+// autor Mike
 void main()
 {
 }
